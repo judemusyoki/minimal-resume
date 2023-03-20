@@ -9,9 +9,9 @@ This is a portfolio of projects developed using Vite, React, and Tailwind CSS. T
 ## Technologies Used
 The portfolio was developed using the following technologies:
 
-[Vite](https://vitejs.dev/)
-[React](https://react.dev/)
-[Tailwind CSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/)
+- [React](https://react.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
 ## Installation
 To install the project, follow these steps:
