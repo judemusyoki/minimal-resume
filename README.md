@@ -34,6 +34,3 @@ npm run build
 ```
 This will create a dist folder with the compiled code.
 
-## Contributing
-Contributions to the project are welcome. If you find a bug or have a feature request, please open an issue on the repository. If you would like to contribute code, please fork the repository and submit a pull request.
-
