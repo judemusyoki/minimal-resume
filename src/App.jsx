@@ -67,7 +67,7 @@ function App() {
       <button
         type="button"
         onClick={handleThemeSwitch}
-        className="fixed p-2 z-10 right-20 top-4 bg-violet-300 dark:bg-orange-300 text-lg rounded-md"
+        className="fixed p-2 z-10 right-20 top-4 bg-violet-300 dark:bg-orange-300 text-lg rounded-md hover:scale-105 hover:transform-origin-center transition-all duration-200 ease-in-out"
       >
         {theme === 'dark' ? sun : moon}
       </button>
@@ -77,7 +77,7 @@ function App() {
           <Portfolio />
           <Timeline />
           <Contact />
-          <Footer children={'Jude Musyoki 2023©'} />
+          <Footer />
         </div>
       </div>
     </>
