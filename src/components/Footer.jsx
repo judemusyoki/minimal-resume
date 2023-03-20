@@ -1,14 +1,16 @@
 import React from 'react'
 
-function Title({ children, id }) {
+function Footer({ children, id }) {
   return (
-    <h1
-      id={id && id}
-      className="text-2xl font-bold underline underline-offset-8 decoration-4 mb-5 text-stone-900 dark:text-white"
-    >
-      {children}
-    </h1>
+    <div className="flex flex-row justify-center mx-auto">
+      <p
+        id={id && id}
+        className="decoration-4 mb-5 text-stone-900 dark:text-white mx-auto"
+      >
+        {children}
+      </p>
+    </div>
   )
 }
 
-export default Title
+export default Footer

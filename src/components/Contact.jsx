@@ -6,7 +6,7 @@ function Contact() {
     <div className="flex flex-col mb-10 mx-auto">
       <div className="flex justify-center items-center">
         <form
-          action="https://getform.io/f/(customSlugHere)"
+          action="https://getform.io/f/383f74a7-4605-4cde-b54e-6cb2b333b6c4"
           method="POST"
           className="flex flex-col w-full md:w-7/12"
         >
@@ -30,8 +30,8 @@ function Contact() {
             className="p-2 mb-4 bg-transparent border-2 rounded-md focus:outline-none"
           />
           <button
-            type="button"
-            className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-yellow-500 to-pink-500 drop-shadow-md hover:stroke-white"
+            type="submit"
+            className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-yellow-500 to-pink-500 drop-shadow-md hover:stroke-white hover:bg-gradient-to-r hover:from-pink-500 hover:to-yellow-500 hover:text-white hover:scale-105 hover:transform-origin-center transition-all duration-200 ease-in-out"
           >
             Work With Me
           </button>
