@@ -21,7 +21,7 @@ export default [
     title: 'Acter',
     imgUrl: '/assets/acter.png',
     stack: ['Nextjs', 'GraphQL', 'Material-UI'],
-    link: 'https://pixel-pusher-spotify-app.netlify.app',
+    link: 'https://acter.app/search',
   },
   {
     title: 'Jottings Blog',
