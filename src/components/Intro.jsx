@@ -30,9 +30,9 @@ function Intro() {
         <a
           href={resume}
           download="Jude Musyoki Resume.pdf"
-          className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-yellow-500 to-pink-500 drop-shadow-md hover:stroke-white hover:bg-gradient-to-r hover:from-pink-500 hover:to-yellow-500 hover:text-white hover:scale-105 hover:transform-origin-center transition-all duration-200 ease-in-out"
+          className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-neutral-800 bg-teal-300 drop-shadow-md hover:bg-teal-700 hover:scale-105 hover:transform-origin-center transition-all duration-200 ease-in-out"
         >
-          Download Resume
+          My Resume {' >'}
         </a>
       </p>
     </div>

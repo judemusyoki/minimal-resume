@@ -6,8 +6,14 @@ export default [
     link: 'https://yariga-dashboard-properties.netlify.app',
   },
   {
+    title: 'React Native Animated Todo',
+    imgUrl: '/assets/about-masthead.png',
+    stack: ['React-Native', 'React-Animated'],
+    link: 'https://github.com/judemusyoki/native-todo',
+  },
+  {
     title: 'OpenAI Image Generator',
-    imgUrl: '/assets/openai-image-gen.png',
+    imgUrl: '/assets/masthead.png',
     stack: ['HTML', 'JavaScript', 'OpenAI Dall-E'],
     link: 'https://sheltered-inlet-25956.herokuapp.com/',
   },

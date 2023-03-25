@@ -31,9 +31,9 @@ function Contact() {
           />
           <button
             type="submit"
-            className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-yellow-500 to-pink-500 drop-shadow-md hover:stroke-white hover:bg-gradient-to-r hover:from-pink-500 hover:to-yellow-500 hover:text-white hover:scale-105 hover:transform-origin-center transition-all duration-200 ease-in-out"
+            className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-neutral-800 bg-teal-300 hover:bg-teal-700 drop-shadow-md  hover:scale-105 hover:transform-origin-center transition-all duration-200 ease-in-out"
           >
-            Work With Me
+            Work With Me {' >'}
           </button>
         </form>
       </div>
